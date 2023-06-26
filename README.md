@@ -6,10 +6,11 @@ Implements the Cocke–Younger–Kasami algorithm to parse a Chomsky Normal Form
 - The number of parses for that sentence.
 
 Args:
-* grammar_filename: name of the file holding grammar rules in the NLTK .cfg format in Chomsky Normal Form
-* test_sentence_filename: name of the file containing test sentences to parse with CKY algorithm
+* ```grammar_filename```: name of the file holding grammar rules in the NLTK .cfg format in Chomsky Normal Form
+* ```test_sentence_filename```: name of the file containing test sentences to parse with CKY algorithm
+
 Returns:
-* output_filename: name of the file where system will write the parses and their counts over the test sentences
+* ```output_filename```: name of the file where system will write the parses and their counts over the test sentences
 
 To run: 
 ```
