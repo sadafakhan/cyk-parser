@@ -14,7 +14,7 @@ Returns:
 
 To run: 
 ```
-hw3_parser.sh <grammar_filename> <test_sentence_filename> <output_filename>
+hw3_parser.sh input/grammar_cnf.cfg input/sentences.txt output/<output_filename>
 ```
 
 HW3 OF LING571 (10/25/2021)
