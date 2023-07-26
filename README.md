@@ -1,5 +1,5 @@
 # cyk-parser
-Implements the Cocke–Younger–Kasami algorithm to parse a Chomsky Normal Form grammar. Loads a CNF grammar, reads in the example sentences, and for each examplesentence, outputs the following to a file:
+```cyk-parser``` implements the Cocke–Younger–Kasami algorithm to parse a Chomsky Normal Form grammar. Loads a CNF grammar, reads in the example sentences, and for each examplesentence, outputs the following to a file:
 
 - The sentence itself
 - The simple bracket structure parse(s) based on the program's implementation of the CKY algorithm
